@@ -1,0 +1,145 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!319 &31900000
+AvatarMask:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: MaskOutLegs
+  m_Mask: 00000000010000000100000000000000000000000100000001000000010000000100000000000000000000000100000001000000
+  m_Elements:
+  - m_Path: 
+    m_Weight: 1
+  - m_Path: Hip
+    m_Weight: 1
+  - m_Path: Hip/Katana
+    m_Weight: 1
+  - m_Path: Hip/Skirt_back
+    m_Weight: 1
+  - m_Path: Hip/Skirt_backside_L_
+    m_Weight: 1
+  - m_Path: Hip/Skirt_backside_R_
+    m_Weight: 1
+  - m_Path: Hip/Skirt_front
+    m_Weight: 1
+  - m_Path: Hip/Skirt_frontside_L_
+    m_Weight: 1
+  - m_Path: Hip/Skirt_frontside_R_
+    m_Weight: 1
+  - m_Path: Hip/Spine
+    m_Weight: 1
+  - m_Path: Hip/Spine/Chest
+    m_Weight: 1
+  - m_Path: Hip/Spine/Chest/MuneRoot
+    m_Weight: 1
+  - m_Path: Hip/Spine/Chest/MuneRoot/Oppai_L_
+    m_Weight: 1
+  - m_Path: Hip/Spine/Chest/MuneRoot/Oppai_R_
+    m_Weight: 1
+  - m_Path: Hip/Spine/Chest/Neck
+    m_Weight: 1
+  - m_Path: Hip/Spine/Chest/Neck/Head
+    m_Weight: 1
+  - m_Path: Hip/Spine/Chest/Neck/Head/Eye_L_
+    m_Weight: 1
+  - m_Path: Hip/Spine/Chest/Neck/Head/Eye_R_
+    m_Weight: 1
+  - m_Path: Hip/Spine/Chest/Neck/Head/Face 1
+    m_Weight: 1
+  - m_Path: Hip/Spine/Chest/Neck/Head/Hair_Root
+    m_Weight: 1
+  - m_Path: Hip/Spine/Chest/Neck/Head/Hair_Root/Hair_Yoko_L_
+    m_Weight: 1
+  - m_Path: Hip/Spine/Chest/Neck/Head/Hair_Root/Hair_Yoko_L_/Hair_Yoko1_L_
+    m_Weight: 1
+  - m_Path: Hip/Spine/Chest/Neck/Head/Hair_Root/Hair_Yoko_R_
+    m_Weight: 1
+  - m_Path: Hip/Spine/Chest/Neck/Head/Hair_Root/Hair_Yoko_R_/Hair_Yoko1_R_
+    m_Weight: 1
+  - m_Path: Hip/Spine/Chest/Neck/Head/XSBone_000
+    m_Weight: 1
+  - m_Path: Hip/Spine/Chest/Shoulder_L_
+    m_Weight: 1
+  - m_Path: Hip/Spine/Chest/Shoulder_L_/UArm_L_
+    m_Weight: 1
+  - m_Path: Hip/Spine/Chest/Shoulder_L_/UArm_L_/DArm_L_
+    m_Weight: 1
+  - m_Path: Hip/Spine/Chest/Shoulder_L_/UArm_L_/DArm_L_/Hand_L_
+    m_Weight: 1
+  - m_Path: Hip/Spine/Chest/Shoulder_L_/UArm_L_/DArm_L_/Hand_L_/Hito1_L_
+    m_Weight: 1
+  - m_Path: Hip/Spine/Chest/Shoulder_L_/UArm_L_/DArm_L_/Hand_L_/Hito1_L_/Hito2_L_
+    m_Weight: 1
+  - m_Path: Hip/Spine/Chest/Shoulder_L_/UArm_L_/DArm_L_/Hand_L_/Koyu1_L_
+    m_Weight: 1
+  - m_Path: Hip/Spine/Chest/Shoulder_L_/UArm_L_/DArm_L_/Hand_L_/Koyu1_L_/Koyu2_L_
+    m_Weight: 1
+  - m_Path: Hip/Spine/Chest/Shoulder_L_/UArm_L_/DArm_L_/Hand_L_/Kusu1_L_
+    m_Weight: 1
+  - m_Path: Hip/Spine/Chest/Shoulder_L_/UArm_L_/DArm_L_/Hand_L_/Kusu1_L_/Kusu2_L_
+    m_Weight: 1
+  - m_Path: Hip/Spine/Chest/Shoulder_L_/UArm_L_/DArm_L_/Hand_L_/Naka1_L_
+    m_Weight: 1
+  - m_Path: Hip/Spine/Chest/Shoulder_L_/UArm_L_/DArm_L_/Hand_L_/Naka1_L_/Naka2_L_
+    m_Weight: 1
+  - m_Path: Hip/Spine/Chest/Shoulder_L_/UArm_L_/DArm_L_/Hand_L_/Oya1_L_
+    m_Weight: 1
+  - m_Path: Hip/Spine/Chest/Shoulder_L_/UArm_L_/DArm_L_/Hand_L_/Oya1_L_/Oya2_L_
+    m_Weight: 1
+  - m_Path: Hip/Spine/Chest/Shoulder_R_
+    m_Weight: 1
+  - m_Path: Hip/Spine/Chest/Shoulder_R_/UArm_R_
+    m_Weight: 1
+  - m_Path: Hip/Spine/Chest/Shoulder_R_/UArm_R_/DArm_R_
+    m_Weight: 1
+  - m_Path: Hip/Spine/Chest/Shoulder_R_/UArm_R_/DArm_R_/Hand_R_
+    m_Weight: 1
+  - m_Path: Hip/Spine/Chest/Shoulder_R_/UArm_R_/DArm_R_/Hand_R_/Hito1_R_
+    m_Weight: 1
+  - m_Path: Hip/Spine/Chest/Shoulder_R_/UArm_R_/DArm_R_/Hand_R_/Hito1_R_/Hito2_R_
+    m_Weight: 1
+  - m_Path: Hip/Spine/Chest/Shoulder_R_/UArm_R_/DArm_R_/Hand_R_/Katana_hand
+    m_Weight: 1
+  - m_Path: Hip/Spine/Chest/Shoulder_R_/UArm_R_/DArm_R_/Hand_R_/Koyu1_R_
+    m_Weight: 1
+  - m_Path: Hip/Spine/Chest/Shoulder_R_/UArm_R_/DArm_R_/Hand_R_/Koyu1_R_/Koyu2_R_
+    m_Weight: 1
+  - m_Path: Hip/Spine/Chest/Shoulder_R_/UArm_R_/DArm_R_/Hand_R_/Kusu1_R_
+    m_Weight: 1
+  - m_Path: Hip/Spine/Chest/Shoulder_R_/UArm_R_/DArm_R_/Hand_R_/Kusu1_R_/Kusu2_R_
+    m_Weight: 1
+  - m_Path: Hip/Spine/Chest/Shoulder_R_/UArm_R_/DArm_R_/Hand_R_/Naka1_R_
+    m_Weight: 1
+  - m_Path: Hip/Spine/Chest/Shoulder_R_/UArm_R_/DArm_R_/Hand_R_/Naka1_R_/Naka2_R_
+    m_Weight: 1
+  - m_Path: Hip/Spine/Chest/Shoulder_R_/UArm_R_/DArm_R_/Hand_R_/Oya1_R_
+    m_Weight: 1
+  - m_Path: Hip/Spine/Chest/Shoulder_R_/UArm_R_/DArm_R_/Hand_R_/Oya1_R_/Oya2_R_
+    m_Weight: 1
+  - m_Path: Hip/ULeg_L_
+    m_Weight: 1
+  - m_Path: Hip/ULeg_L_/DLeg_L_
+    m_Weight: 1
+  - m_Path: Hip/ULeg_L_/DLeg_L_/Foot_L_
+    m_Weight: 1
+  - m_Path: Hip/ULeg_L_/DLeg_L_/Foot_L_/Toe_L_
+    m_Weight: 1
+  - m_Path: Hip/ULeg_R_
+    m_Weight: 1
+  - m_Path: Hip/ULeg_R_/DLeg_R_
+    m_Weight: 1
+  - m_Path: Hip/ULeg_R_/DLeg_R_/Foot_R_
+    m_Weight: 1
+  - m_Path: Hip/ULeg_R_/DLeg_R_/Foot_R_/Toe_R_
+    m_Weight: 1
+  - m_Path: Mesh
+    m_Weight: 1
+  - m_Path: Mesh/Body
+    m_Weight: 1
+  - m_Path: Mesh/Eye[]
+    m_Weight: 1
+  - m_Path: Mesh/Face
+    m_Weight: 1
+  - m_Path: Mesh/Katana 1
+    m_Weight: 1
